@@ -69,10 +69,3 @@ public class Test {
         System.out.println("Min value is: "+minValue);
 }
 }
-
-
-
-       
-
-    
-
