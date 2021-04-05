@@ -102,10 +102,3 @@ public class Test {
         System.out.println("Total price="+totalPrice);
     }
 }
-
-
-
-       
-
-    
-
